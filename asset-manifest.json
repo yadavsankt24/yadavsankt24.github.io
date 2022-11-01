@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65b21ecb.css",
+    "main.js": "/static/js/main.e4249f75.js",
+    "static/media/Sanket_Yadav_Resume.pdf": "/static/media/Sanket_Yadav_Resume.bb1e02c2e602caad520c.pdf",
+    "static/media/me.png": "/static/media/me.331c10f8114ec2a8925e.png",
+    "index.html": "/index.html",
+    "main.65b21ecb.css.map": "/static/css/main.65b21ecb.css.map",
+    "main.e4249f75.js.map": "/static/js/main.e4249f75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65b21ecb.css",
+    "static/js/main.e4249f75.js"
+  ]
+}
