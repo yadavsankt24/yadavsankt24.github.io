@@ -4,7 +4,6 @@ import { Footer } from './Components/Footer/Footer'
 import { Header } from './Components/Header/Header'
 import { Nav } from './Components/Nav/Nav'
 import { Portfolio } from './Components/Portfolio/Portfolio'
-import { Testimonial } from './Components/Testimonial/Testimonial'
 import { Contact } from '../src/Components/Contact/Contact'
 import { Experience } from '../src/Components/Experience/Experience'
 
@@ -16,7 +15,6 @@ export const App = () => {
     <About/>
     <Experience/>
     <Portfolio/>
-    <Testimonial/>
     <Contact/>
     <Footer/>
     </>
