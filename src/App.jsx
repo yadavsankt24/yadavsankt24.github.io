@@ -6,6 +6,8 @@ import { Nav } from './Components/Nav/Nav'
 import { Portfolio } from './Components/Portfolio/Portfolio'
 import { Contact } from '../src/Components/Contact/Contact'
 import { Experience } from '../src/Components/Experience/Experience'
+import { Stats } from './Components/Stats/stats'
+import Calender from './Components/Calender/Calender'
 
 export const App = () => {
   return (
@@ -15,6 +17,8 @@ export const App = () => {
     <About/>
     <Experience/>
     <Portfolio/>
+    <Calender/>
+    <Stats/>
     <Contact/>
     <Footer/>
     </>
