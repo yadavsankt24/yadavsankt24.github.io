@@ -60,9 +60,9 @@
   }
 }
 
-@media only screen and (min-width: 300px) and (max-width: 549px) {
+@media screen and (max-width: 950px) {
   .Stats {
-    width: 90%;
+    width: 70%;
     text-align: center;
     margin-top: 50px;
   }
