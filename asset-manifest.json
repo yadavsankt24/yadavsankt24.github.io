@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.41f08366.css",
+    "main.css": "/static/css/main.2cc68fa5.css",
     "main.js": "/static/js/main.d397cf29.js",
     "static/media/Sanket_Yadav_Resume.pdf": "/static/media/Sanket_Yadav_Resume.bb1e02c2e602caad520c.pdf",
     "static/media/y.jpg": "/static/media/y.d8eebed7a301ab1b8e37.jpg",
@@ -11,11 +11,11 @@
     "static/media/w.jpg": "/static/media/w.a01e421a36648b933c6e.jpg",
     "static/media/todo.jpg": "/static/media/todo.fcf430ac1ba5716d8eea.jpg",
     "index.html": "/index.html",
-    "main.41f08366.css.map": "/static/css/main.41f08366.css.map",
+    "main.2cc68fa5.css.map": "/static/css/main.2cc68fa5.css.map",
     "main.d397cf29.js.map": "/static/js/main.d397cf29.js.map"
   },
   "entrypoints": [
-    "static/css/main.41f08366.css",
+    "static/css/main.2cc68fa5.css",
     "static/js/main.d397cf29.js"
   ]
 }
