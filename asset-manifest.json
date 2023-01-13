@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.67013fde.css",
-    "main.js": "/static/js/main.d397cf29.js",
+    "main.js": "/static/js/main.cc402d05.js",
     "static/media/Sanket_Yadav_Resume.pdf": "/static/media/Sanket_Yadav_Resume.bb1e02c2e602caad520c.pdf",
     "static/media/y.jpg": "/static/media/y.d8eebed7a301ab1b8e37.jpg",
     "static/media/me.png": "/static/media/me.331c10f8114ec2a8925e.png",
     "static/media/ht.jpg": "/static/media/ht.1d3d8de94948a8b4cdf2.jpg",
-    "static/media/cj.jpg": "/static/media/cj.d4c331cfb9633d6930a6.jpg",
     "static/media/cr.gif": "/static/media/cr.1c9d84d09c5983f00013.gif",
-    "static/media/w.jpg": "/static/media/w.a01e421a36648b933c6e.jpg",
     "static/media/todo.jpg": "/static/media/todo.fcf430ac1ba5716d8eea.jpg",
+    "static/media/cj.gif": "/static/media/cj.f9376411880d0d3a4b43.gif",
+    "static/media/w.gif": "/static/media/w.bfe8739c281bdff274e3.gif",
     "index.html": "/index.html",
     "main.67013fde.css.map": "/static/css/main.67013fde.css.map",
-    "main.d397cf29.js.map": "/static/js/main.d397cf29.js.map"
+    "main.cc402d05.js.map": "/static/js/main.cc402d05.js.map"
   },
   "entrypoints": [
     "static/css/main.67013fde.css",
-    "static/js/main.d397cf29.js"
+    "static/js/main.cc402d05.js"
   ]
 }
