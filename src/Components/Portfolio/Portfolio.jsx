@@ -1,20 +1,38 @@
 import React from "react";
 import "./Portfolio.css";
 import img1 from "../../assets/cr.gif";
-import img2 from "../../assets/cj.jpg";
+import img2 from "../../assets/cj.gif";
 import img3 from "../../assets/ht.jpg";
 import img4 from "../../assets/todo.jpg";
-import img5 from "../../assets/w.jpg";
+import img5 from "../../assets/w.gif";
 import img6 from "../../assets/y.jpg";
 
 const data = [
   {
     id: 1,
     image: img1,
-    title: "Clone of Carbs Manager-Keto Diet App(Using ReactJs)",
-    techstack: "Tech Stack: ReactJS,Redux,Html,Css,NodeJs,Chakra-UI",
+    title: "Anthroplogie.com(E-commerce App)",
+    techstack: "Tech Stack: ReactJS,Redux,Json-server,Css,NodeJs,Express JS,Mongo DB",
     github: "https://github.com/NazminS28/Anthropologie.com",
     demo: "https://frontend-ruby-chi.vercel.app/",
+  },
+  {
+    id: 5,
+    image: img5,
+    title: "Digi-Pathshala(Stydy-App) ",
+    techstack: "Tech Stack: NextJs, MongoDB, ExpressJS, NodeJS. Tailwind, React Redux",
+
+    github: "https://github.com/jyotiranjan1997/Mind-Optimiser",
+    demo: "digipathshala-jyotiranjan1997.vercel.app/",
+  },
+  {
+    id: 3,
+    image: img2,
+    title: "Clone of Carbs Manager(Diet App)",
+    techstack: "Tech Stack: Javascript, Html, Css, Chakra-UI",
+
+    github: "https://github.com/yadavsankt24/CarbsManager",
+    demo: "https://dynamic-cocada-c6ad50.netlify.app/",
   },
   {
     id: 2,
@@ -25,15 +43,6 @@ const data = [
     demo: "https://effortless-dodol-6ac997.netlify.app/",
   },
   {
-    id: 3,
-    image: img2,
-    title: "Clone of Carbs Manager-Keto Diet App",
-    techstack: "Tech Stack: Javascript, Html, Css, NodeJs, Chakra-UI",
-
-    github: "https://github.com/yadavsankt24/CarbsManager",
-    demo: "https://dynamic-cocada-c6ad50.netlify.app/",
-  },
-  {
     id: 4,
     image: img4,
     title: "Todo Application",
@@ -41,15 +50,6 @@ const data = [
 
     github: "https://github.com/yadavsankt24/Todo-application",
     demo: "https://golden-naiad-ffbb32.netlify.app/",
-  },
-  {
-    id: 5,
-    image: img5,
-    title: "Youtube application ",
-    techstack: "Tech Stack: Html, Css, Javascript",
-
-    github: "https://github.com/yadavsankt24/Youtube",
-    demo: "https://clinquant-peony-8c22fe.netlify.app/",
   },
   {
     id: 6,
